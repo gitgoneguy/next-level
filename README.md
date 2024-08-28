@@ -1,23 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Surprise! Let's Smell Better</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f0f8ff;
-            color: #333;
-            margin: 0;
-            padding: 0;
-            text-align: center;
-        }
-
-    
 </head>
-        <body>
+<body>
     <div class="container">
         <!-- Header Section -->
         <h1>You Smell. Let's Fix That!</h1>
