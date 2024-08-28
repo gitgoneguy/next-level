@@ -1,17 +1,15 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Test Page</title>
-    <style>
-        body {
-            background-color: #f0f8ff;
-        }
-    </style>
-</head>
-<body>
-    <h1>Hello World!</h1>
-    <p>If you see this, the basic setup is working.</p>
-</body>
-</html>
+# Surprise! Let's Smell Better
+
+Welcome to the **Surprise! Let's Smell Better** website repository. This is a simple, fun website designed to surprise visitors with helpful tips on improving personal hygiene.
+
+## Live Website
+
+You can view the live website hosted on GitHub Pages [here](https://yourusername.github.io/repositoryname/).
+
+## Overview
+
+This website provides a playful message with 20 practical tips for smelling better and maintaining good personal hygiene. It uses basic HTML and CSS to display a single-page layout.
+
+## How to View or Modify the Website
+
+1. **Clone the Repository**:
